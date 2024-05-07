@@ -15,7 +15,7 @@ Installation
 In your `Gemfile`, add:
 
 ```ruby
-gem 'spree_loyalty_points', github: 'vinsol-spree-contrib/spree-loyalty-points'
+gem 'spree_loyalty_points', github: 'vinsol-spree-contrib/spree-loyalty-points', branch: '3-0-stable'
 ```
 
 Bundle your dependencies and run the installation generator:
